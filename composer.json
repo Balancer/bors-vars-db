@@ -23,7 +23,7 @@
 	},
 
 	"provide": {
-		"balancer/bors-vars"
+		"balancer/bors-vars": "0.1"
 	}
 
 	"autoload": {
