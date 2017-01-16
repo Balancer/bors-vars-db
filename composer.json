@@ -24,7 +24,7 @@
 
 	"provide": {
 		"balancer/bors-vars": "0.1"
-	}
+	},
 
 	"autoload": {
 		"classmap": ["classes/"]
